@@ -1,0 +1,15 @@
+ <div class="flex-container movies wrap-reverse">
+            <div class="movie-image flex-column">
+                <img src="http://i1.faceprep.in/prograd-junior/onward.png" alt="">
+            </div>
+            <div class="movie-text flex-column">
+              <h1>Onward</h1>
+                <p>Onward is all about two teenage elf brothers who go on a quest to discover little magic 
+                    left out there.</p>
+                <div>
+                    <a href="https://www.youtube.com/watch?v=gn5QmllRCn4&feature=youtu.be">
+                        <p id="play" class="button">Play</p>
+                    </a>
+                </div>
+            </div>
+        </div>
